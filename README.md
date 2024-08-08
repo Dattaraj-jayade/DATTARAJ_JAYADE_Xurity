@@ -1,4 +1,4 @@
-# NAME_Xurity
+# DAttARAJ_JAYADE_Xurity
 
 ## CRUD website with MERN 
 
@@ -36,7 +36,7 @@ Follow these steps to set up the project locally.
 
     ```sh
     git clone https://github.com/your-username/expense-management-system.git
-    cd expense-management-system
+    cd CRUD website with MERN
     ```
 
 2. **Install dependencies for the client:**
