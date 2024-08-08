@@ -27,7 +27,7 @@ Follow these steps to set up the project locally.
 ### Prerequisites
 
 - Node.js
-- npm or yarn
+- npm 
 - MongoDB
 
 ### Steps
